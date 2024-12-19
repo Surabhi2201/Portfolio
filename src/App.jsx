@@ -1,5 +1,5 @@
 import {BrowserRouter, Routes} from "react-router-dom"
-import { About, Contact ,Experience, Feedbacks, Hero,Navbar, Tech, Works, StarsCanvas} from "./components"
+import { About, Contact ,Experience, Hero,Navbar, Tech, Works, StarsCanvas} from "./components"
 import { motion } from 'framer-motion';
 import { style } from './style';
 import { staggerContainer } from './utils/motion';
