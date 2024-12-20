@@ -2,7 +2,7 @@ import React from 'react'
 
 import {VerticalTimeline, VerticalTimelineElement} from 'react-vertical-timeline-component';
 import {motion} from 'framer-motion';
-import 'react-vertical-timeline-component/style.min.css';
+
 import {  technologies} from '../constants';
 import {style} from '../style';
 import { textVariant } from '../utils/motion';
